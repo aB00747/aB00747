@@ -1,10 +1,14 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="100%">
+</div>
+
 <!-- Header -->
 <h1 align="center">
 
 ```
 ⚔️ ABHISHEK "ANCIENT APPARITION" LODH ⚔️
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF1C1C&center=true&vCenter=true&random=false&width=800&lines=Level+25+Full+Stack+Developer;Divine+V+Software+Engineer;Legendary+Code+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=900&height=70&lines=Level+99+Full+Stack+Developer;Legendary+Code+Architect;Epic+Gaming+Engineer)](https://git.io/typing-svg)
 </h1>
 
 ```
